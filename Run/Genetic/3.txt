@@ -1,0 +1,53 @@
+new random population.
+step 0
+new best fitness: 415
+step 1
+new best fitness: 422
+step 2
+new best fitness: 424
+step 3
+new best fitness: 423
+step 4
+new best fitness: 428
+step 5
+new best fitness: 426
+step 6
+new best fitness: 426
+step 7
+new best fitness: 426
+step 8
+new best fitness: 426
+step 9
+new best fitness: 427
+step 10
+new best fitness: 426
+step 11
+new best fitness: 427
+step 12
+new best fitness: 427
+step 13
+new best fitness: 428
+step 14
+new best fitness: 428
+step 15
+new best fitness: 428
+step 16
+new best fitness: 428
+step 17
+new best fitness: 428
+step 18
+new best fitness: 428
+step 19
+new best fitness: 428
+step 20
+new best fitness: 428
+step 21
+new best fitness: 428
+step 22
+new best fitness: 428
+step 23
+new best fitness: 428
+step 24
+new best fitness: 429
+hack result:
+[1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]

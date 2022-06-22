@@ -1,0 +1,1868 @@
+new random population.
+step 0
+new best fitness: 416
+step 1
+new best fitness: 420
+step 2
+new best fitness: 423
+step 3
+new best fitness: 426
+step 4
+new best fitness: 426
+step 5
+new best fitness: 427
+step 6
+new best fitness: 426
+step 7
+new best fitness: 426
+step 8
+new best fitness: 427
+step 9
+new best fitness: 426
+step 10
+new best fitness: 426
+step 11
+new best fitness: 427
+step 12
+new best fitness: 427
+step 13
+new best fitness: 427
+step 14
+new best fitness: 427
+step 15
+new best fitness: 427
+step 16
+new best fitness: 427
+step 17
+new best fitness: 428
+step 18
+new best fitness: 428
+step 19
+new best fitness: 428
+step 20
+new best fitness: 427
+step 21
+new best fitness: 428
+step 22
+new best fitness: 428
+step 23
+new best fitness: 428
+step 24
+new best fitness: 428
+step 25
+new best fitness: 428
+step 26
+new best fitness: 428
+step 27
+new best fitness: 428
+step 28
+new best fitness: 428
+step 29
+new best fitness: 428
+step 30
+new best fitness: 428
+step 31
+new best fitness: 428
+step 32
+new best fitness: 428
+step 33
+new best fitness: 428
+step 34
+new best fitness: 428
+step 35
+new best fitness: 428
+step 36
+new best fitness: 428
+step 37
+new best fitness: 428
+step 38
+new best fitness: 428
+step 39
+new best fitness: 428
+step 40
+new best fitness: 428
+step 41
+new best fitness: 428
+step 42
+new best fitness: 428
+step 43
+new best fitness: 428
+step 44
+new best fitness: 428
+step 45
+new best fitness: 428
+step 46
+new best fitness: 428
+step 47
+new best fitness: 428
+step 48
+new best fitness: 428
+step 49
+new best fitness: 428
+step 50
+new best fitness: 428
+step 51
+new best fitness: 428
+step 52
+new best fitness: 428
+step 53
+new best fitness: 428
+step 54
+new best fitness: 428
+step 55
+new best fitness: 428
+step 56
+new best fitness: 428
+step 57
+new best fitness: 428
+step 58
+new best fitness: 428
+step 59
+new best fitness: 428
+step 60
+new best fitness: 428
+step 61
+new best fitness: 428
+step 62
+new best fitness: 428
+step 63
+new best fitness: 428
+step 64
+new best fitness: 428
+step 65
+new best fitness: 428
+step 66
+new best fitness: 428
+step 67
+new best fitness: 428
+step 68
+new best fitness: 428
+step 69
+new best fitness: 428
+step 70
+new best fitness: 428
+step 71
+new best fitness: 428
+step 72
+new best fitness: 428
+step 73
+new best fitness: 428
+step 74
+new best fitness: 428
+step 75
+new best fitness: 428
+step 76
+new best fitness: 428
+step 77
+new best fitness: 428
+step 78
+new best fitness: 428
+step 79
+new best fitness: 428
+step 80
+new best fitness: 428
+step 81
+new best fitness: 428
+step 82
+new best fitness: 428
+step 83
+new best fitness: 428
+step 84
+new best fitness: 428
+step 85
+new best fitness: 428
+step 86
+new best fitness: 428
+step 87
+new best fitness: 428
+step 88
+new best fitness: 428
+step 89
+new best fitness: 428
+step 90
+new best fitness: 428
+step 91
+new best fitness: 428
+step 92
+new best fitness: 428
+step 93
+new best fitness: 428
+step 94
+new best fitness: 428
+step 95
+new best fitness: 428
+step 96
+new best fitness: 428
+step 97
+new best fitness: 428
+step 98
+new best fitness: 428
+step 99
+new best fitness: 428
+step 100
+new best fitness: 428
+step 101
+new best fitness: 428
+step 102
+new best fitness: 428
+step 103
+new best fitness: 428
+step 104
+new best fitness: 428
+step 105
+new best fitness: 428
+step 106
+new best fitness: 428
+step 107
+new best fitness: 428
+step 108
+new best fitness: 428
+step 109
+new best fitness: 428
+step 110
+new best fitness: 428
+step 111
+new best fitness: 428
+step 112
+new best fitness: 428
+step 113
+new best fitness: 428
+step 114
+new best fitness: 428
+step 115
+new best fitness: 428
+step 116
+new best fitness: 428
+step 117
+new best fitness: 428
+step 118
+new best fitness: 428
+step 119
+new best fitness: 428
+step 120
+new best fitness: 428
+step 121
+new best fitness: 428
+step 122
+new best fitness: 428
+step 123
+new best fitness: 428
+step 124
+new best fitness: 428
+step 125
+new best fitness: 428
+step 126
+new best fitness: 428
+step 127
+new best fitness: 428
+step 128
+new best fitness: 428
+step 129
+new best fitness: 428
+step 130
+new best fitness: 428
+step 131
+new best fitness: 428
+step 132
+new best fitness: 428
+step 133
+new best fitness: 428
+step 134
+new best fitness: 428
+step 135
+new best fitness: 428
+step 136
+new best fitness: 428
+step 137
+new best fitness: 428
+step 138
+new best fitness: 428
+step 139
+new best fitness: 428
+step 140
+new best fitness: 428
+step 141
+new best fitness: 428
+step 142
+new best fitness: 428
+step 143
+new best fitness: 428
+step 144
+new best fitness: 428
+step 145
+new best fitness: 428
+step 146
+new best fitness: 428
+step 147
+new best fitness: 428
+step 148
+new best fitness: 428
+step 149
+new best fitness: 428
+step 150
+new best fitness: 428
+step 151
+new best fitness: 428
+step 152
+new best fitness: 428
+step 153
+new best fitness: 428
+step 154
+new best fitness: 428
+step 155
+new best fitness: 428
+step 156
+new best fitness: 428
+step 157
+new best fitness: 428
+step 158
+new best fitness: 428
+step 159
+new best fitness: 428
+step 160
+new best fitness: 428
+step 161
+new best fitness: 428
+step 162
+new best fitness: 428
+step 163
+new best fitness: 428
+step 164
+new best fitness: 428
+step 165
+new best fitness: 428
+step 166
+new best fitness: 428
+step 167
+new best fitness: 428
+step 168
+new best fitness: 428
+step 169
+new best fitness: 428
+step 170
+new best fitness: 428
+step 171
+new best fitness: 428
+step 172
+new best fitness: 428
+step 173
+new best fitness: 428
+step 174
+new best fitness: 428
+step 175
+new best fitness: 428
+step 176
+new best fitness: 428
+step 177
+new best fitness: 428
+step 178
+new best fitness: 428
+step 179
+new best fitness: 428
+step 180
+new best fitness: 428
+step 181
+new best fitness: 428
+step 182
+new best fitness: 428
+step 183
+new best fitness: 428
+step 184
+new best fitness: 428
+step 185
+new best fitness: 428
+step 186
+new best fitness: 428
+step 187
+new best fitness: 428
+step 188
+new best fitness: 428
+step 189
+new best fitness: 428
+step 190
+new best fitness: 428
+step 191
+new best fitness: 428
+step 192
+new best fitness: 428
+step 193
+new best fitness: 428
+step 194
+new best fitness: 428
+step 195
+new best fitness: 428
+step 196
+new best fitness: 428
+step 197
+new best fitness: 428
+step 198
+new best fitness: 428
+step 199
+new best fitness: 428
+step 200
+new best fitness: 428
+step 201
+new best fitness: 428
+step 202
+new best fitness: 428
+step 203
+new best fitness: 428
+step 204
+new best fitness: 428
+step 205
+new best fitness: 428
+step 206
+new best fitness: 428
+step 207
+new best fitness: 428
+step 208
+new best fitness: 428
+step 209
+new best fitness: 428
+step 210
+new best fitness: 428
+step 211
+new best fitness: 428
+step 212
+new best fitness: 428
+step 213
+new best fitness: 428
+step 214
+new best fitness: 428
+step 215
+new best fitness: 428
+step 216
+new best fitness: 428
+step 217
+new best fitness: 428
+step 218
+new best fitness: 428
+step 219
+new best fitness: 428
+step 220
+new best fitness: 428
+step 221
+new best fitness: 428
+step 222
+new best fitness: 428
+step 223
+new best fitness: 428
+step 224
+new best fitness: 428
+step 225
+new best fitness: 428
+step 226
+new best fitness: 428
+step 227
+new best fitness: 428
+step 228
+new best fitness: 428
+step 229
+new best fitness: 428
+step 230
+new best fitness: 428
+step 231
+new best fitness: 428
+step 232
+new best fitness: 428
+step 233
+new best fitness: 428
+step 234
+new best fitness: 428
+step 235
+new best fitness: 428
+step 236
+new best fitness: 428
+step 237
+new best fitness: 428
+step 238
+new best fitness: 428
+step 239
+new best fitness: 428
+step 240
+new best fitness: 428
+step 241
+new best fitness: 428
+step 242
+new best fitness: 428
+step 243
+new best fitness: 428
+step 244
+new best fitness: 428
+step 245
+new best fitness: 428
+step 246
+new best fitness: 428
+step 247
+new best fitness: 428
+step 248
+new best fitness: 428
+step 249
+new best fitness: 428
+step 250
+new best fitness: 428
+step 251
+new best fitness: 428
+step 252
+new best fitness: 428
+step 253
+new best fitness: 428
+step 254
+new best fitness: 428
+step 255
+new best fitness: 428
+step 256
+new best fitness: 428
+step 257
+new best fitness: 428
+step 258
+new best fitness: 428
+step 259
+new best fitness: 428
+step 260
+new best fitness: 428
+step 261
+new best fitness: 428
+step 262
+new best fitness: 428
+step 263
+new best fitness: 428
+step 264
+new best fitness: 428
+step 265
+new best fitness: 428
+step 266
+new best fitness: 428
+step 267
+new best fitness: 428
+step 268
+new best fitness: 428
+step 269
+new best fitness: 428
+step 270
+new best fitness: 428
+step 271
+new best fitness: 428
+step 272
+new best fitness: 428
+step 273
+new best fitness: 428
+step 274
+new best fitness: 428
+step 275
+new best fitness: 428
+step 276
+new best fitness: 428
+step 277
+new best fitness: 428
+step 278
+new best fitness: 428
+step 279
+new best fitness: 428
+step 280
+new best fitness: 428
+step 281
+new best fitness: 428
+step 282
+new best fitness: 428
+step 283
+new best fitness: 428
+step 284
+new best fitness: 428
+step 285
+new best fitness: 428
+step 286
+new best fitness: 428
+step 287
+new best fitness: 428
+step 288
+new best fitness: 428
+step 289
+new best fitness: 428
+step 290
+new best fitness: 428
+step 291
+new best fitness: 428
+step 292
+new best fitness: 428
+step 293
+new best fitness: 428
+step 294
+new best fitness: 428
+step 295
+new best fitness: 428
+step 296
+new best fitness: 428
+step 297
+new best fitness: 428
+step 298
+new best fitness: 428
+step 299
+new best fitness: 428
+step 300
+new best fitness: 428
+step 301
+new best fitness: 428
+step 302
+new best fitness: 428
+step 303
+new best fitness: 428
+step 304
+new best fitness: 428
+step 305
+new best fitness: 428
+step 306
+new best fitness: 428
+step 307
+new best fitness: 428
+step 308
+new best fitness: 428
+step 309
+new best fitness: 428
+step 310
+new best fitness: 428
+step 311
+new best fitness: 428
+step 312
+new best fitness: 428
+step 313
+new best fitness: 428
+step 314
+new best fitness: 428
+step 315
+new best fitness: 428
+step 316
+new best fitness: 428
+step 317
+new best fitness: 428
+step 318
+new best fitness: 428
+step 319
+new best fitness: 428
+step 320
+new best fitness: 428
+step 321
+new best fitness: 428
+step 322
+new best fitness: 428
+step 323
+new best fitness: 428
+step 324
+new best fitness: 428
+step 325
+new best fitness: 428
+step 326
+new best fitness: 428
+step 327
+new best fitness: 428
+step 328
+new best fitness: 428
+step 329
+new best fitness: 428
+step 330
+new best fitness: 428
+step 331
+new best fitness: 428
+step 332
+new best fitness: 428
+step 333
+new best fitness: 428
+step 334
+new best fitness: 428
+step 335
+new best fitness: 428
+step 336
+new best fitness: 428
+step 337
+new best fitness: 428
+step 338
+new best fitness: 428
+step 339
+new best fitness: 428
+step 340
+new best fitness: 428
+step 341
+new best fitness: 428
+step 342
+new best fitness: 428
+step 343
+new best fitness: 428
+step 344
+new best fitness: 428
+step 345
+new best fitness: 428
+step 346
+new best fitness: 428
+step 347
+new best fitness: 428
+step 348
+new best fitness: 428
+step 349
+new best fitness: 428
+step 350
+new best fitness: 428
+step 351
+new best fitness: 428
+step 352
+new best fitness: 428
+step 353
+new best fitness: 428
+step 354
+new best fitness: 428
+step 355
+new best fitness: 428
+step 356
+new best fitness: 428
+step 357
+new best fitness: 428
+step 358
+new best fitness: 428
+step 359
+new best fitness: 428
+step 360
+new best fitness: 428
+step 361
+new best fitness: 428
+step 362
+new best fitness: 428
+step 363
+new best fitness: 428
+step 364
+new best fitness: 428
+step 365
+new best fitness: 428
+step 366
+new best fitness: 428
+step 367
+new best fitness: 428
+step 368
+new best fitness: 428
+step 369
+new best fitness: 428
+step 370
+new best fitness: 428
+step 371
+new best fitness: 428
+step 372
+new best fitness: 428
+step 373
+new best fitness: 428
+step 374
+new best fitness: 428
+step 375
+new best fitness: 428
+step 376
+new best fitness: 428
+step 377
+new best fitness: 428
+step 378
+new best fitness: 428
+step 379
+new best fitness: 428
+step 380
+new best fitness: 428
+step 381
+new best fitness: 428
+step 382
+new best fitness: 428
+step 383
+new best fitness: 428
+step 384
+new best fitness: 428
+step 385
+new best fitness: 428
+step 386
+new best fitness: 428
+step 387
+new best fitness: 428
+step 388
+new best fitness: 428
+step 389
+new best fitness: 428
+step 390
+new best fitness: 428
+step 391
+new best fitness: 428
+step 392
+new best fitness: 428
+step 393
+new best fitness: 428
+step 394
+new best fitness: 428
+step 395
+new best fitness: 428
+step 396
+new best fitness: 428
+step 397
+new best fitness: 428
+step 398
+new best fitness: 428
+step 399
+new best fitness: 428
+step 400
+new best fitness: 428
+step 401
+new best fitness: 428
+step 402
+new best fitness: 428
+step 403
+new best fitness: 428
+step 404
+new best fitness: 428
+step 405
+new best fitness: 428
+step 406
+new best fitness: 428
+step 407
+new best fitness: 428
+step 408
+new best fitness: 428
+step 409
+new best fitness: 428
+step 410
+new best fitness: 428
+step 411
+new best fitness: 428
+step 412
+new best fitness: 428
+step 413
+new best fitness: 428
+step 414
+new best fitness: 428
+step 415
+new best fitness: 428
+step 416
+new best fitness: 428
+step 417
+new best fitness: 428
+step 418
+new best fitness: 428
+step 419
+new best fitness: 428
+step 420
+new best fitness: 428
+step 421
+new best fitness: 428
+step 422
+new best fitness: 428
+step 423
+new best fitness: 428
+step 424
+new best fitness: 428
+step 425
+new best fitness: 428
+step 426
+new best fitness: 428
+step 427
+new best fitness: 428
+step 428
+new best fitness: 428
+step 429
+new best fitness: 428
+step 430
+new best fitness: 428
+step 431
+new best fitness: 428
+step 432
+new best fitness: 428
+step 433
+new best fitness: 428
+step 434
+new best fitness: 428
+step 435
+new best fitness: 428
+step 436
+new best fitness: 428
+step 437
+new best fitness: 428
+step 438
+new best fitness: 428
+step 439
+new best fitness: 428
+step 440
+new best fitness: 428
+step 441
+new best fitness: 428
+step 442
+new best fitness: 428
+step 443
+new best fitness: 428
+step 444
+new best fitness: 428
+step 445
+new best fitness: 428
+step 446
+new best fitness: 428
+step 447
+new best fitness: 428
+step 448
+new best fitness: 428
+step 449
+new best fitness: 428
+step 450
+new best fitness: 428
+step 451
+new best fitness: 428
+step 452
+new best fitness: 428
+step 453
+new best fitness: 428
+step 454
+new best fitness: 428
+step 455
+new best fitness: 428
+step 456
+new best fitness: 428
+step 457
+new best fitness: 428
+step 458
+new best fitness: 428
+step 459
+new best fitness: 428
+step 460
+new best fitness: 428
+step 461
+new best fitness: 428
+step 462
+new best fitness: 428
+step 463
+new best fitness: 428
+step 464
+new best fitness: 428
+step 465
+new best fitness: 428
+step 466
+new best fitness: 428
+step 467
+new best fitness: 428
+step 468
+new best fitness: 428
+step 469
+new best fitness: 428
+step 470
+new best fitness: 428
+step 471
+new best fitness: 428
+step 472
+new best fitness: 428
+step 473
+new best fitness: 428
+step 474
+new best fitness: 428
+step 475
+new best fitness: 428
+step 476
+new best fitness: 428
+step 477
+new best fitness: 428
+step 478
+new best fitness: 428
+step 479
+new best fitness: 428
+step 480
+new best fitness: 428
+step 481
+new best fitness: 428
+step 482
+new best fitness: 428
+step 483
+new best fitness: 428
+step 484
+new best fitness: 428
+step 485
+new best fitness: 428
+step 486
+new best fitness: 428
+step 487
+new best fitness: 428
+step 488
+new best fitness: 428
+step 489
+new best fitness: 428
+step 490
+new best fitness: 428
+step 491
+new best fitness: 428
+step 492
+new best fitness: 428
+step 493
+new best fitness: 428
+step 494
+new best fitness: 428
+step 495
+new best fitness: 428
+step 496
+new best fitness: 428
+step 497
+new best fitness: 428
+step 498
+new best fitness: 428
+step 499
+new best fitness: 428
+new random population.
+step 0
+new best fitness: 415
+step 1
+new best fitness: 422
+step 2
+new best fitness: 424
+step 3
+new best fitness: 426
+step 4
+new best fitness: 425
+step 5
+new best fitness: 427
+step 6
+new best fitness: 427
+step 7
+new best fitness: 427
+step 8
+new best fitness: 427
+step 9
+new best fitness: 428
+step 10
+new best fitness: 428
+step 11
+new best fitness: 428
+step 12
+new best fitness: 428
+step 13
+new best fitness: 428
+step 14
+new best fitness: 428
+step 15
+new best fitness: 428
+step 16
+new best fitness: 428
+step 17
+new best fitness: 428
+step 18
+new best fitness: 428
+step 19
+new best fitness: 428
+step 20
+new best fitness: 428
+step 21
+new best fitness: 428
+step 22
+new best fitness: 428
+step 23
+new best fitness: 428
+step 24
+new best fitness: 428
+step 25
+new best fitness: 428
+step 26
+new best fitness: 428
+step 27
+new best fitness: 428
+step 28
+new best fitness: 428
+step 29
+new best fitness: 428
+step 30
+new best fitness: 428
+step 31
+new best fitness: 428
+step 32
+new best fitness: 428
+step 33
+new best fitness: 428
+step 34
+new best fitness: 428
+step 35
+new best fitness: 428
+step 36
+new best fitness: 428
+step 37
+new best fitness: 428
+step 38
+new best fitness: 428
+step 39
+new best fitness: 428
+step 40
+new best fitness: 428
+step 41
+new best fitness: 428
+step 42
+new best fitness: 428
+step 43
+new best fitness: 428
+step 44
+new best fitness: 428
+step 45
+new best fitness: 428
+step 46
+new best fitness: 428
+step 47
+new best fitness: 428
+step 48
+new best fitness: 428
+step 49
+new best fitness: 428
+step 50
+new best fitness: 428
+step 51
+new best fitness: 428
+step 52
+new best fitness: 428
+step 53
+new best fitness: 428
+step 54
+new best fitness: 428
+step 55
+new best fitness: 428
+step 56
+new best fitness: 428
+step 57
+new best fitness: 428
+step 58
+new best fitness: 428
+step 59
+new best fitness: 428
+step 60
+new best fitness: 428
+step 61
+new best fitness: 428
+step 62
+new best fitness: 428
+step 63
+new best fitness: 428
+step 64
+new best fitness: 428
+step 65
+new best fitness: 428
+step 66
+new best fitness: 428
+step 67
+new best fitness: 428
+step 68
+new best fitness: 428
+step 69
+new best fitness: 428
+step 70
+new best fitness: 428
+step 71
+new best fitness: 428
+step 72
+new best fitness: 428
+step 73
+new best fitness: 428
+step 74
+new best fitness: 428
+step 75
+new best fitness: 428
+step 76
+new best fitness: 428
+step 77
+new best fitness: 428
+step 78
+new best fitness: 428
+step 79
+new best fitness: 428
+step 80
+new best fitness: 428
+step 81
+new best fitness: 428
+step 82
+new best fitness: 428
+step 83
+new best fitness: 428
+step 84
+new best fitness: 428
+step 85
+new best fitness: 428
+step 86
+new best fitness: 428
+step 87
+new best fitness: 428
+step 88
+new best fitness: 428
+step 89
+new best fitness: 428
+step 90
+new best fitness: 428
+step 91
+new best fitness: 428
+step 92
+new best fitness: 428
+step 93
+new best fitness: 428
+step 94
+new best fitness: 428
+step 95
+new best fitness: 428
+step 96
+new best fitness: 428
+step 97
+new best fitness: 428
+step 98
+new best fitness: 428
+step 99
+new best fitness: 428
+step 100
+new best fitness: 428
+step 101
+new best fitness: 428
+step 102
+new best fitness: 428
+step 103
+new best fitness: 428
+step 104
+new best fitness: 428
+step 105
+new best fitness: 428
+step 106
+new best fitness: 428
+step 107
+new best fitness: 428
+step 108
+new best fitness: 428
+step 109
+new best fitness: 428
+step 110
+new best fitness: 428
+step 111
+new best fitness: 428
+step 112
+new best fitness: 428
+step 113
+new best fitness: 428
+step 114
+new best fitness: 428
+step 115
+new best fitness: 428
+step 116
+new best fitness: 428
+step 117
+new best fitness: 428
+step 118
+new best fitness: 428
+step 119
+new best fitness: 428
+step 120
+new best fitness: 428
+step 121
+new best fitness: 428
+step 122
+new best fitness: 428
+step 123
+new best fitness: 428
+step 124
+new best fitness: 428
+step 125
+new best fitness: 428
+step 126
+new best fitness: 428
+step 127
+new best fitness: 428
+step 128
+new best fitness: 428
+step 129
+new best fitness: 428
+step 130
+new best fitness: 428
+step 131
+new best fitness: 428
+step 132
+new best fitness: 428
+step 133
+new best fitness: 428
+step 134
+new best fitness: 428
+step 135
+new best fitness: 428
+step 136
+new best fitness: 428
+step 137
+new best fitness: 428
+step 138
+new best fitness: 428
+step 139
+new best fitness: 428
+step 140
+new best fitness: 428
+step 141
+new best fitness: 428
+step 142
+new best fitness: 428
+step 143
+new best fitness: 428
+step 144
+new best fitness: 428
+step 145
+new best fitness: 428
+step 146
+new best fitness: 428
+step 147
+new best fitness: 428
+step 148
+new best fitness: 428
+step 149
+new best fitness: 428
+step 150
+new best fitness: 428
+step 151
+new best fitness: 428
+step 152
+new best fitness: 428
+step 153
+new best fitness: 428
+step 154
+new best fitness: 428
+step 155
+new best fitness: 428
+step 156
+new best fitness: 428
+step 157
+new best fitness: 428
+step 158
+new best fitness: 428
+step 159
+new best fitness: 428
+step 160
+new best fitness: 428
+step 161
+new best fitness: 428
+step 162
+new best fitness: 428
+step 163
+new best fitness: 428
+step 164
+new best fitness: 428
+step 165
+new best fitness: 428
+step 166
+new best fitness: 428
+step 167
+new best fitness: 428
+step 168
+new best fitness: 428
+step 169
+new best fitness: 428
+step 170
+new best fitness: 428
+step 171
+new best fitness: 428
+step 172
+new best fitness: 428
+step 173
+new best fitness: 428
+step 174
+new best fitness: 428
+step 175
+new best fitness: 428
+step 176
+new best fitness: 428
+step 177
+new best fitness: 428
+step 178
+new best fitness: 428
+step 179
+new best fitness: 428
+step 180
+new best fitness: 428
+step 181
+new best fitness: 428
+step 182
+new best fitness: 428
+step 183
+new best fitness: 428
+step 184
+new best fitness: 428
+step 185
+new best fitness: 428
+step 186
+new best fitness: 428
+step 187
+new best fitness: 428
+step 188
+new best fitness: 428
+step 189
+new best fitness: 428
+step 190
+new best fitness: 428
+step 191
+new best fitness: 428
+step 192
+new best fitness: 428
+step 193
+new best fitness: 428
+step 194
+new best fitness: 428
+step 195
+new best fitness: 428
+step 196
+new best fitness: 428
+step 197
+new best fitness: 428
+step 198
+new best fitness: 428
+step 199
+new best fitness: 428
+step 200
+new best fitness: 428
+step 201
+new best fitness: 428
+step 202
+new best fitness: 428
+step 203
+new best fitness: 428
+step 204
+new best fitness: 428
+step 205
+new best fitness: 428
+step 206
+new best fitness: 428
+step 207
+new best fitness: 428
+step 208
+new best fitness: 428
+step 209
+new best fitness: 428
+step 210
+new best fitness: 428
+step 211
+new best fitness: 428
+step 212
+new best fitness: 428
+step 213
+new best fitness: 428
+step 214
+new best fitness: 428
+step 215
+new best fitness: 428
+step 216
+new best fitness: 428
+step 217
+new best fitness: 428
+step 218
+new best fitness: 428
+step 219
+new best fitness: 428
+step 220
+new best fitness: 428
+step 221
+new best fitness: 428
+step 222
+new best fitness: 428
+step 223
+new best fitness: 428
+step 224
+new best fitness: 428
+step 225
+new best fitness: 428
+step 226
+new best fitness: 428
+step 227
+new best fitness: 428
+step 228
+new best fitness: 428
+step 229
+new best fitness: 428
+step 230
+new best fitness: 428
+step 231
+new best fitness: 428
+step 232
+new best fitness: 428
+step 233
+new best fitness: 428
+step 234
+new best fitness: 428
+step 235
+new best fitness: 428
+step 236
+new best fitness: 428
+step 237
+new best fitness: 428
+step 238
+new best fitness: 428
+step 239
+new best fitness: 428
+step 240
+new best fitness: 428
+step 241
+new best fitness: 428
+step 242
+new best fitness: 428
+step 243
+new best fitness: 428
+step 244
+new best fitness: 428
+step 245
+new best fitness: 428
+step 246
+new best fitness: 428
+step 247
+new best fitness: 428
+step 248
+new best fitness: 428
+step 249
+new best fitness: 428
+step 250
+new best fitness: 428
+step 251
+new best fitness: 428
+step 252
+new best fitness: 428
+step 253
+new best fitness: 428
+step 254
+new best fitness: 428
+step 255
+new best fitness: 428
+step 256
+new best fitness: 428
+step 257
+new best fitness: 428
+step 258
+new best fitness: 428
+step 259
+new best fitness: 428
+step 260
+new best fitness: 428
+step 261
+new best fitness: 428
+step 262
+new best fitness: 428
+step 263
+new best fitness: 428
+step 264
+new best fitness: 428
+step 265
+new best fitness: 428
+step 266
+new best fitness: 428
+step 267
+new best fitness: 428
+step 268
+new best fitness: 428
+step 269
+new best fitness: 428
+step 270
+new best fitness: 428
+step 271
+new best fitness: 428
+step 272
+new best fitness: 428
+step 273
+new best fitness: 428
+step 274
+new best fitness: 428
+step 275
+new best fitness: 428
+step 276
+new best fitness: 428
+step 277
+new best fitness: 428
+step 278
+new best fitness: 428
+step 279
+new best fitness: 428
+step 280
+new best fitness: 428
+step 281
+new best fitness: 428
+step 282
+new best fitness: 428
+step 283
+new best fitness: 428
+step 284
+new best fitness: 428
+step 285
+new best fitness: 428
+step 286
+new best fitness: 428
+step 287
+new best fitness: 428
+step 288
+new best fitness: 428
+step 289
+new best fitness: 428
+step 290
+new best fitness: 428
+step 291
+new best fitness: 428
+step 292
+new best fitness: 428
+step 293
+new best fitness: 428
+step 294
+new best fitness: 428
+step 295
+new best fitness: 428
+step 296
+new best fitness: 428
+step 297
+new best fitness: 428
+step 298
+new best fitness: 428
+step 299
+new best fitness: 428
+step 300
+new best fitness: 428
+step 301
+new best fitness: 428
+step 302
+new best fitness: 428
+step 303
+new best fitness: 428
+step 304
+new best fitness: 428
+step 305
+new best fitness: 428
+step 306
+new best fitness: 428
+step 307
+new best fitness: 428
+step 308
+new best fitness: 428
+step 309
+new best fitness: 428
+step 310
+new best fitness: 428
+step 311
+new best fitness: 428
+step 312
+new best fitness: 428
+step 313
+new best fitness: 428
+step 314
+new best fitness: 428
+step 315
+new best fitness: 428
+step 316
+new best fitness: 428
+step 317
+new best fitness: 428
+step 318
+new best fitness: 428
+step 319
+new best fitness: 428
+step 320
+new best fitness: 428
+step 321
+new best fitness: 428
+step 322
+new best fitness: 428
+step 323
+new best fitness: 428
+step 324
+new best fitness: 428
+step 325
+new best fitness: 428
+step 326
+new best fitness: 428
+step 327
+new best fitness: 428
+step 328
+new best fitness: 428
+step 329
+new best fitness: 428
+step 330
+new best fitness: 428
+step 331
+new best fitness: 428
+step 332
+new best fitness: 428
+step 333
+new best fitness: 428
+step 334
+new best fitness: 428
+step 335
+new best fitness: 428
+step 336
+new best fitness: 428
+step 337
+new best fitness: 428
+step 338
+new best fitness: 428
+step 339
+new best fitness: 428
+step 340
+new best fitness: 428
+step 341
+new best fitness: 428
+step 342
+new best fitness: 428
+step 343
+new best fitness: 428
+step 344
+new best fitness: 428
+step 345
+new best fitness: 428
+step 346
+new best fitness: 428
+step 347
+new best fitness: 428
+step 348
+new best fitness: 428
+step 349
+new best fitness: 428
+step 350
+new best fitness: 428
+step 351
+new best fitness: 428
+step 352
+new best fitness: 428
+step 353
+new best fitness: 428
+step 354
+new best fitness: 428
+step 355
+new best fitness: 428
+step 356
+new best fitness: 428
+step 357
+new best fitness: 428
+step 358
+new best fitness: 428
+step 359
+new best fitness: 428
+step 360
+new best fitness: 428
+step 361
+new best fitness: 428
+step 362
+new best fitness: 428
+step 363
+new best fitness: 428
+step 364
+new best fitness: 428
+step 365
+new best fitness: 428
+step 366
+new best fitness: 428
+step 367
+new best fitness: 428
+step 368
+new best fitness: 428
+step 369
+new best fitness: 428
+step 370
+new best fitness: 428
+step 371
+new best fitness: 428
+step 372
+new best fitness: 428
+step 373
+new best fitness: 428
+step 374
+new best fitness: 428
+step 375
+new best fitness: 428
+step 376
+new best fitness: 428
+step 377
+new best fitness: 428
+step 378
+new best fitness: 428
+step 379
+new best fitness: 428
+step 380
+new best fitness: 428
+step 381
+new best fitness: 428
+step 382
+new best fitness: 428
+step 383
+new best fitness: 428
+step 384
+new best fitness: 428
+step 385
+new best fitness: 428
+step 386
+new best fitness: 428
+step 387
+new best fitness: 428
+step 388
+new best fitness: 428
+step 389
+new best fitness: 428
+step 390
+new best fitness: 428
+step 391
+new best fitness: 428
+step 392
+new best fitness: 428
+step 393
+new best fitness: 428
+step 394
+new best fitness: 428
+step 395
+new best fitness: 428
+step 396
+new best fitness: 428
+step 397
+new best fitness: 428
+step 398
+new best fitness: 428
+step 399
+new best fitness: 428
+step 400
+new best fitness: 428
+step 401
+new best fitness: 428
+step 402
+new best fitness: 428
+step 403
+new best fitness: 428
+step 404
+new best fitness: 428
+step 405
+new best fitness: 428
+step 406
+new best fitness: 428
+step 407
+new best fitness: 428
+step 408
+new best fitness: 428
+step 409
+new best fitness: 428
+step 410
+new best fitness: 428
+step 411
+new best fitness: 428
+step 412
+new best fitness: 428
+step 413
+new best fitness: 428
+step 414
+new best fitness: 428
+step 415
+new best fitness: 428
+step 416
+new best fitness: 428
+step 417
+new best fitness: 428
+step 418
+new best fitness: 428
+step 419
+new best fitness: 428
+step 420
+new best fitness: 428
+step 421
+new best fitness: 428
+step 422
+new best fitness: 428
+step 423
+new best fitness: 428
+step 424
+new best fitness: 428
+step 425
+new best fitness: 428
+step 426
+new best fitness: 428
+step 427
+new best fitness: 428
+step 428
+new best fitness: 428
+step 429
+new best fitness: 428
+step 430
+new best fitness: 428
+step 431
+new best fitness: 429
+hack result:
+[1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
